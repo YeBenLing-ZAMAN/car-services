@@ -13,7 +13,7 @@ const experts =[
     {id:3, name:'Dwayne Rock', img:expert3},
     {id:4, name:'Messy milks', img:expert4},
     {id:5, name:'chris lara', img:expert5},
-    {id:5, name:'diniyal smith', img:expert6}
+    {id:6, name:'diniyal smith', img:expert6}
 ]
 
 const Experts = () => {
