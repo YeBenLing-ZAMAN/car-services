@@ -15,6 +15,7 @@
     }
 }
 @media only screen and (min-width:577px) and (max-width:992px) {
+    /* for tab mobile */
     .services-container{
         grid-template-columns: repeat(2,1fr);
     }
